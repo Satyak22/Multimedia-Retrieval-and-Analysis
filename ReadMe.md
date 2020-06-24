@@ -1,4 +1,4 @@
-## Multimedia Retrieval and Analysis
+# Multimedia Retrieval and Analysis
 
 The project aimed at various techniques for feature extraction, dimensionality reduction and how these techniques contribute to similarity between images. The dataset being used was 11K Hands dataset, which contains hand images of various subjects. The hand images may be of palmar side, dorsal side, left hand, right hand.
 
