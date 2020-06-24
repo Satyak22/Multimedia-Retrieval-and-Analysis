@@ -1,0 +1,16 @@
+Processing Metadata...
+Db already populated, skipping
+Extracting HOG of images in /Users/tsekar/ASU/MWDB/Project/DataSet/TestData2
+There are 200 images in the directory
+Db already contains features for HOG
+Extraction complete, please inspect database.
+{'imageName': 'Hand_0000112.jpg', 'image_path': '/Users/tsekar/ASU/MWDB/Project/DataSet/TestData2/Hand_0000112.jpg', 'distance_score': 6.857897477377439}
+{'imageName': 'Hand_0000108.jpg', 'image_path': '/Users/tsekar/ASU/MWDB/Project/DataSet/TestData2/Hand_0000108.jpg', 'distance_score': 8.789338913983539}
+{'imageName': 'Hand_0001145.jpg', 'image_path': '/Users/tsekar/ASU/MWDB/Project/DataSet/TestData2/Hand_0001145.jpg', 'distance_score': 9.641122581083966}
+{'imageName': 'Hand_0001091.jpg', 'image_path': '/Users/tsekar/ASU/MWDB/Project/DataSet/TestData2/Hand_0001091.jpg', 'distance_score': 10.28121095620533}
+{'imageName': 'Hand_0001144.jpg', 'image_path': '/Users/tsekar/ASU/MWDB/Project/DataSet/TestData2/Hand_0001144.jpg', 'distance_score': 10.529867260703805}
+{'imageName': 'Hand_0001092.jpg', 'image_path': '/Users/tsekar/ASU/MWDB/Project/DataSet/TestData2/Hand_0001092.jpg', 'distance_score': 10.779965111732466}
+{'imageName': 'Hand_0007671.jpg', 'image_path': '/Users/tsekar/ASU/MWDB/Project/DataSet/TestData2/Hand_0007671.jpg', 'distance_score': 11.230282207767713}
+{'imageName': 'Hand_0000132.jpg', 'image_path': '/Users/tsekar/ASU/MWDB/Project/DataSet/TestData2/Hand_0000132.jpg', 'distance_score': 11.549372887469536}
+{'imageName': 'Hand_0000990.jpg', 'image_path': '/Users/tsekar/ASU/MWDB/Project/DataSet/TestData2/Hand_0000990.jpg', 'distance_score': 11.564101159684233}
+{'imageName': 'Hand_0001154.jpg', 'image_path': '/Users/tsekar/ASU/MWDB/Project/DataSet/TestData2/Hand_0001154.jpg', 'distance_score': 11.57256138479787}

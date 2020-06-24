@@ -1,0 +1,7032 @@
+There are 39 subjects in the dataset
+Dimensionality reduction...
+
+=========== For Subject pair [0][0] ===========
+Same Subjects
+
+=========== For Subject pair [0][1] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [0][2] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [0][3] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [0][4] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [0][5] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [0][6] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [0][7] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [0][8] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [0][9] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [0][10] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [0][11] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [0][12] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [0][13] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [0][14] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [0][15] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [0][16] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [0][17] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [0][18] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [0][19] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [0][20] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [0][21] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [0][22] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [0][23] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [0][24] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [0][25] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [0][26] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [0][27] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [0][28] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [0][29] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [0][30] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [0][31] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [0][32] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [0][33] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [0][34] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [0][35] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [0][36] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [0][37] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [0][38] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [1][0] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [1][1] ===========
+Same Subjects
+
+=========== For Subject pair [1][2] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [1][3] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [1][4] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [1][5] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [1][6] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [1][7] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [1][8] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [1][9] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [1][10] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [1][11] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [1][12] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [1][13] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [1][14] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [1][15] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [1][16] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [1][17] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [1][18] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [1][19] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [1][20] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [1][21] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [1][22] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [1][23] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [1][24] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [1][25] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [1][26] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [1][27] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [1][28] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [1][29] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [1][30] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [1][31] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [1][32] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [1][33] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [1][34] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [1][35] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [1][36] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [1][37] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [1][38] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [2][0] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [2][1] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [2][2] ===========
+Same Subjects
+
+=========== For Subject pair [2][3] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [2][4] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [2][5] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [2][6] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [2][7] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [2][8] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [2][9] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [2][10] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [2][11] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [2][12] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [2][13] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [2][14] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [2][15] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [2][16] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [2][17] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [2][18] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [2][19] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [2][20] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [2][21] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [2][22] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [2][23] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [2][24] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [2][25] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [2][26] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [2][27] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [2][28] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [2][29] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [2][30] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [2][31] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [2][32] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [2][33] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [2][34] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [2][35] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [2][36] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [2][37] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [2][38] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [3][0] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [3][1] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [3][2] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [3][3] ===========
+Same Subjects
+
+=========== For Subject pair [3][4] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [3][5] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [3][6] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [3][7] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [3][8] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [3][9] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [3][10] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [3][11] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [3][12] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [3][13] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [3][14] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [3][15] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [3][16] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [3][17] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [3][18] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [3][19] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [3][20] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [3][21] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [3][22] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [3][23] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [3][24] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [3][25] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [3][26] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [3][27] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [3][28] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [3][29] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [3][30] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [3][31] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [3][32] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [3][33] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [3][34] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [3][35] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [3][36] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [3][37] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [3][38] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [4][0] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [4][1] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [4][2] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [4][3] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [4][4] ===========
+Same Subjects
+
+=========== For Subject pair [4][5] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [4][6] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [4][7] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [4][8] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [4][9] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [4][10] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [4][11] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [4][12] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [4][13] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [4][14] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [4][15] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [4][16] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [4][17] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [4][18] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [4][19] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [4][20] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [4][21] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [4][22] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [4][23] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [4][24] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [4][25] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [4][26] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [4][27] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [4][28] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [4][29] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [4][30] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [4][31] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [4][32] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [4][33] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [4][34] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [4][35] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [4][36] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [4][37] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [4][38] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [5][0] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [5][1] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [5][2] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [5][3] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [5][4] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [5][5] ===========
+Same Subjects
+
+=========== For Subject pair [5][6] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [5][7] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [5][8] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [5][9] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [5][10] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [5][11] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [5][12] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [5][13] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [5][14] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [5][15] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [5][16] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [5][17] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [5][18] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [5][19] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [5][20] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [5][21] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [5][22] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [5][23] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [5][24] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [5][25] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [5][26] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [5][27] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [5][28] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [5][29] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [5][30] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [5][31] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [5][32] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [5][33] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [5][34] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [5][35] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [5][36] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [5][37] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [5][38] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [6][0] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [6][1] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [6][2] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [6][3] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [6][4] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [6][5] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [6][6] ===========
+Same Subjects
+
+=========== For Subject pair [6][7] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [6][8] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [6][9] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [6][10] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [6][11] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [6][12] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [6][13] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [6][14] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [6][15] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [6][16] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [6][17] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [6][18] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [6][19] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [6][20] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [6][21] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [6][22] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [6][23] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [6][24] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [6][25] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [6][26] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [6][27] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [6][28] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [6][29] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [6][30] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [6][31] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [6][32] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [6][33] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [6][34] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [6][35] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [6][36] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [6][37] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [6][38] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [7][0] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [7][1] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [7][2] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [7][3] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [7][4] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [7][5] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [7][6] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [7][7] ===========
+Same Subjects
+
+=========== For Subject pair [7][8] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [7][9] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [7][10] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [7][11] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [7][12] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [7][13] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [7][14] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [7][15] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [7][16] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [7][17] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [7][18] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [7][19] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [7][20] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [7][21] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [7][22] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [7][23] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [7][24] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [7][25] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [7][26] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [7][27] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [7][28] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [7][29] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [7][30] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [7][31] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [7][32] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [7][33] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [7][34] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [7][35] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [7][36] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [7][37] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [7][38] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [8][0] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [8][1] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [8][2] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [8][3] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [8][4] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [8][5] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [8][6] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [8][7] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [8][8] ===========
+Same Subjects
+
+=========== For Subject pair [8][9] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [8][10] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [8][11] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [8][12] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [8][13] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [8][14] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [8][15] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [8][16] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [8][17] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [8][18] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [8][19] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [8][20] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [8][21] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [8][22] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [8][23] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [8][24] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [8][25] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [8][26] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [8][27] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [8][28] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [8][29] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [8][30] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [8][31] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [8][32] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [8][33] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [8][34] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [8][35] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [8][36] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [8][37] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [8][38] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [9][0] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [9][1] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [9][2] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [9][3] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [9][4] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [9][5] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [9][6] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [9][7] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [9][8] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [9][9] ===========
+Same Subjects
+
+=========== For Subject pair [9][10] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [9][11] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [9][12] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [9][13] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [9][14] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [9][15] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [9][16] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [9][17] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [9][18] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [9][19] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [9][20] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [9][21] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [9][22] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [9][23] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [9][24] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [9][25] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [9][26] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [9][27] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [9][28] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [9][29] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [9][30] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [9][31] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [9][32] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [9][33] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [9][34] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [9][35] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [9][36] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [9][37] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [9][38] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [10][0] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [10][1] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [10][2] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [10][3] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [10][4] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [10][5] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [10][6] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [10][7] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [10][8] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [10][9] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [10][10] ===========
+Same Subjects
+
+=========== For Subject pair [10][11] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [10][12] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [10][13] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [10][14] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [10][15] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [10][16] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [10][17] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [10][18] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [10][19] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [10][20] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [10][21] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [10][22] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [10][23] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [10][24] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [10][25] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [10][26] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [10][27] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [10][28] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [10][29] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [10][30] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [10][31] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [10][32] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [10][33] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [10][34] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [10][35] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [10][36] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [10][37] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [10][38] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [11][0] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [11][1] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [11][2] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [11][3] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [11][4] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [11][5] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [11][6] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [11][7] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [11][8] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [11][9] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [11][10] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [11][11] ===========
+Same Subjects
+
+=========== For Subject pair [11][12] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [11][13] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [11][14] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [11][15] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [11][16] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [11][17] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [11][18] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [11][19] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [11][20] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [11][21] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [11][22] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [11][23] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [11][24] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [11][25] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [11][26] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [11][27] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [11][28] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [11][29] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [11][30] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [11][31] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [11][32] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [11][33] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [11][34] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [11][35] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [11][36] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [11][37] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [11][38] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [12][0] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [12][1] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [12][2] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [12][3] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [12][4] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [12][5] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [12][6] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [12][7] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [12][8] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [12][9] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [12][10] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [12][11] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [12][12] ===========
+Same Subjects
+
+=========== For Subject pair [12][13] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [12][14] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [12][15] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [12][16] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [12][17] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [12][18] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [12][19] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [12][20] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [12][21] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [12][22] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [12][23] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [12][24] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [12][25] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [12][26] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [12][27] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [12][28] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [12][29] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [12][30] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [12][31] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [12][32] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [12][33] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [12][34] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [12][35] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [12][36] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [12][37] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [12][38] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [13][0] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [13][1] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [13][2] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [13][3] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [13][4] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [13][5] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [13][6] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [13][7] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [13][8] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [13][9] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [13][10] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [13][11] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [13][12] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [13][13] ===========
+Same Subjects
+
+=========== For Subject pair [13][14] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [13][15] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [13][16] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [13][17] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [13][18] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [13][19] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [13][20] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [13][21] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [13][22] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [13][23] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [13][24] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [13][25] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [13][26] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [13][27] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [13][28] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [13][29] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [13][30] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [13][31] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [13][32] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [13][33] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [13][34] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [13][35] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [13][36] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [13][37] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [13][38] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [14][0] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [14][1] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [14][2] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [14][3] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [14][4] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [14][5] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [14][6] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [14][7] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [14][8] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [14][9] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [14][10] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [14][11] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [14][12] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [14][13] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [14][14] ===========
+Same Subjects
+
+=========== For Subject pair [14][15] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [14][16] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [14][17] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [14][18] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [14][19] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [14][20] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [14][21] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [14][22] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [14][23] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [14][24] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [14][25] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [14][26] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [14][27] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [14][28] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [14][29] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [14][30] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [14][31] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [14][32] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [14][33] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [14][34] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [14][35] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [14][36] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [14][37] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [14][38] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [15][0] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [15][1] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [15][2] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [15][3] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [15][4] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [15][5] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [15][6] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [15][7] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [15][8] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [15][9] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [15][10] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [15][11] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [15][12] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [15][13] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [15][14] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [15][15] ===========
+Same Subjects
+
+=========== For Subject pair [15][16] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [15][17] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [15][18] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [15][19] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [15][20] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [15][21] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [15][22] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [15][23] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [15][24] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [15][25] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [15][26] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [15][27] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [15][28] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [15][29] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [15][30] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [15][31] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [15][32] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [15][33] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [15][34] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [15][35] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [15][36] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [15][37] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [15][38] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [16][0] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [16][1] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [16][2] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [16][3] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [16][4] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [16][5] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [16][6] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [16][7] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [16][8] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [16][9] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [16][10] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [16][11] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [16][12] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [16][13] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [16][14] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [16][15] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [16][16] ===========
+Same Subjects
+
+=========== For Subject pair [16][17] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [16][18] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [16][19] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [16][20] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [16][21] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [16][22] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [16][23] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [16][24] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [16][25] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [16][26] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [16][27] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [16][28] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [16][29] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [16][30] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [16][31] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [16][32] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [16][33] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [16][34] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [16][35] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [16][36] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [16][37] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [16][38] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [17][0] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [17][1] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [17][2] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [17][3] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [17][4] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [17][5] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [17][6] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [17][7] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [17][8] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [17][9] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [17][10] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [17][11] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [17][12] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [17][13] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [17][14] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [17][15] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [17][16] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [17][17] ===========
+Same Subjects
+
+=========== For Subject pair [17][18] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [17][19] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [17][20] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [17][21] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [17][22] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [17][23] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [17][24] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [17][25] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [17][26] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [17][27] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [17][28] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [17][29] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [17][30] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [17][31] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [17][32] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [17][33] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [17][34] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [17][35] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [17][36] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [17][37] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [17][38] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [18][0] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [18][1] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [18][2] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [18][3] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [18][4] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [18][5] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [18][6] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [18][7] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [18][8] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [18][9] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [18][10] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [18][11] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [18][12] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [18][13] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [18][14] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [18][15] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [18][16] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [18][17] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [18][18] ===========
+Same Subjects
+
+=========== For Subject pair [18][19] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [18][20] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [18][21] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [18][22] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [18][23] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [18][24] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [18][25] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [18][26] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [18][27] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [18][28] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [18][29] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [18][30] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [18][31] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [18][32] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [18][33] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [18][34] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [18][35] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [18][36] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [18][37] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [18][38] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [19][0] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [19][1] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [19][2] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [19][3] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [19][4] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [19][5] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [19][6] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [19][7] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [19][8] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [19][9] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [19][10] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [19][11] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [19][12] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [19][13] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [19][14] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [19][15] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [19][16] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [19][17] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [19][18] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [19][19] ===========
+Same Subjects
+
+=========== For Subject pair [19][20] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [19][21] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [19][22] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [19][23] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [19][24] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [19][25] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [19][26] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [19][27] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [19][28] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [19][29] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [19][30] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [19][31] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [19][32] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [19][33] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [19][34] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [19][35] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [19][36] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [19][37] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [19][38] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [20][0] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [20][1] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [20][2] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [20][3] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [20][4] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [20][5] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [20][6] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [20][7] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [20][8] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [20][9] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [20][10] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [20][11] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [20][12] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [20][13] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [20][14] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [20][15] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [20][16] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [20][17] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [20][18] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [20][19] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [20][20] ===========
+Same Subjects
+
+=========== For Subject pair [20][21] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [20][22] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [20][23] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [20][24] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [20][25] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [20][26] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [20][27] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [20][28] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [20][29] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [20][30] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [20][31] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [20][32] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [20][33] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [20][34] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [20][35] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [20][36] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [20][37] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [20][38] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [21][0] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [21][1] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [21][2] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [21][3] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [21][4] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [21][5] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [21][6] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [21][7] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [21][8] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [21][9] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [21][10] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [21][11] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [21][12] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [21][13] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [21][14] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [21][15] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [21][16] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [21][17] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [21][18] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [21][19] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [21][20] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [21][21] ===========
+Same Subjects
+
+=========== For Subject pair [21][22] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [21][23] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [21][24] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [21][25] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [21][26] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [21][27] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [21][28] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [21][29] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [21][30] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [21][31] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [21][32] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [21][33] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [21][34] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [21][35] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [21][36] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [21][37] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [21][38] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [22][0] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [22][1] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [22][2] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [22][3] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [22][4] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [22][5] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [22][6] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [22][7] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [22][8] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [22][9] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [22][10] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [22][11] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [22][12] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [22][13] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [22][14] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [22][15] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [22][16] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [22][17] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [22][18] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [22][19] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [22][20] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [22][21] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [22][22] ===========
+Same Subjects
+
+=========== For Subject pair [22][23] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [22][24] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [22][25] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [22][26] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [22][27] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [22][28] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [22][29] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [22][30] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [22][31] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [22][32] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [22][33] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [22][34] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [22][35] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [22][36] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [22][37] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [22][38] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [23][0] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [23][1] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [23][2] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [23][3] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [23][4] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [23][5] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [23][6] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [23][7] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [23][8] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [23][9] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [23][10] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [23][11] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [23][12] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [23][13] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [23][14] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [23][15] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [23][16] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [23][17] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [23][18] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [23][19] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [23][20] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [23][21] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [23][22] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [23][23] ===========
+Same Subjects
+
+=========== For Subject pair [23][24] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [23][25] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [23][26] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [23][27] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [23][28] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [23][29] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [23][30] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [23][31] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [23][32] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [23][33] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [23][34] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [23][35] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [23][36] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [23][37] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [23][38] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [24][0] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [24][1] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [24][2] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [24][3] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [24][4] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [24][5] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [24][6] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [24][7] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [24][8] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [24][9] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [24][10] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [24][11] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [24][12] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [24][13] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [24][14] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [24][15] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [24][16] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [24][17] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [24][18] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [24][19] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [24][20] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [24][21] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [24][22] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [24][23] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [24][24] ===========
+Same Subjects
+
+=========== For Subject pair [24][25] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [24][26] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [24][27] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [24][28] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [24][29] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [24][30] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [24][31] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [24][32] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [24][33] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [24][34] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [24][35] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [24][36] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [24][37] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [24][38] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [25][0] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [25][1] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [25][2] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [25][3] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [25][4] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [25][5] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [25][6] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [25][7] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [25][8] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [25][9] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [25][10] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [25][11] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [25][12] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [25][13] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [25][14] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [25][15] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [25][16] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [25][17] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [25][18] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [25][19] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [25][20] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [25][21] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [25][22] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [25][23] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [25][24] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [25][25] ===========
+Same Subjects
+
+=========== For Subject pair [25][26] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [25][27] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [25][28] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [25][29] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [25][30] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [25][31] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [25][32] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [25][33] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [25][34] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [25][35] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [25][36] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [25][37] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [25][38] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [26][0] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [26][1] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [26][2] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [26][3] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [26][4] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [26][5] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [26][6] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [26][7] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [26][8] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [26][9] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [26][10] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [26][11] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [26][12] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [26][13] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [26][14] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [26][15] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [26][16] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [26][17] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [26][18] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [26][19] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [26][20] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [26][21] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [26][22] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [26][23] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [26][24] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [26][25] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [26][26] ===========
+Same Subjects
+
+=========== For Subject pair [26][27] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [26][28] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [26][29] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [26][30] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [26][31] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [26][32] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [26][33] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [26][34] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [26][35] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [26][36] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [26][37] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [26][38] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [27][0] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [27][1] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [27][2] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [27][3] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [27][4] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [27][5] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [27][6] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [27][7] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [27][8] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [27][9] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [27][10] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [27][11] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [27][12] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [27][13] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [27][14] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [27][15] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [27][16] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [27][17] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [27][18] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [27][19] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [27][20] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [27][21] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [27][22] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [27][23] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [27][24] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [27][25] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [27][26] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [27][27] ===========
+Same Subjects
+
+=========== For Subject pair [27][28] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [27][29] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [27][30] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [27][31] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [27][32] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [27][33] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [27][34] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [27][35] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [27][36] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [27][37] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [27][38] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [28][0] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [28][1] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [28][2] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [28][3] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [28][4] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [28][5] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [28][6] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [28][7] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [28][8] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [28][9] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [28][10] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [28][11] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [28][12] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [28][13] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [28][14] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [28][15] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [28][16] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [28][17] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [28][18] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [28][19] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [28][20] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [28][21] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [28][22] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [28][23] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [28][24] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [28][25] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [28][26] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [28][27] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [28][28] ===========
+Same Subjects
+
+=========== For Subject pair [28][29] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [28][30] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [28][31] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [28][32] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [28][33] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [28][34] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [28][35] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [28][36] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [28][37] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [28][38] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [29][0] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [29][1] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [29][2] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [29][3] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [29][4] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [29][5] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [29][6] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [29][7] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [29][8] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [29][9] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [29][10] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [29][11] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [29][12] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [29][13] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [29][14] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [29][15] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [29][16] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [29][17] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [29][18] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [29][19] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [29][20] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [29][21] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [29][22] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [29][23] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [29][24] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [29][25] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [29][26] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [29][27] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [29][28] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [29][29] ===========
+Same Subjects
+
+=========== For Subject pair [29][30] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [29][31] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [29][32] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [29][33] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [29][34] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [29][35] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [29][36] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [29][37] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [29][38] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [30][0] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [30][1] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [30][2] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [30][3] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [30][4] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [30][5] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [30][6] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [30][7] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [30][8] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [30][9] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [30][10] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [30][11] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [30][12] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [30][13] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [30][14] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [30][15] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [30][16] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [30][17] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [30][18] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [30][19] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [30][20] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [30][21] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [30][22] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [30][23] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [30][24] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [30][25] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [30][26] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [30][27] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [30][28] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [30][29] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [30][30] ===========
+Same Subjects
+
+=========== For Subject pair [30][31] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [30][32] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [30][33] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [30][34] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [30][35] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [30][36] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [30][37] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [30][38] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [31][0] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [31][1] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [31][2] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [31][3] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [31][4] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [31][5] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [31][6] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [31][7] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [31][8] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [31][9] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [31][10] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [31][11] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [31][12] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [31][13] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [31][14] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [31][15] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [31][16] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [31][17] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [31][18] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [31][19] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [31][20] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [31][21] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [31][22] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [31][23] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [31][24] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [31][25] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [31][26] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [31][27] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [31][28] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [31][29] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [31][30] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [31][31] ===========
+Same Subjects
+
+=========== For Subject pair [31][32] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [31][33] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [31][34] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [31][35] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [31][36] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [31][37] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [31][38] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [32][0] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [32][1] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [32][2] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [32][3] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [32][4] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [32][5] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [32][6] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [32][7] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [32][8] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [32][9] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [32][10] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [32][11] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [32][12] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [32][13] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [32][14] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [32][15] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [32][16] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [32][17] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [32][18] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [32][19] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [32][20] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [32][21] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [32][22] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [32][23] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [32][24] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [32][25] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [32][26] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [32][27] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [32][28] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [32][29] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [32][30] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [32][31] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [32][32] ===========
+Same Subjects
+
+=========== For Subject pair [32][33] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [32][34] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [32][35] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [32][36] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [32][37] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [32][38] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [33][0] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [33][1] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [33][2] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [33][3] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [33][4] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [33][5] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [33][6] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [33][7] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [33][8] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [33][9] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [33][10] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [33][11] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [33][12] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [33][13] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [33][14] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [33][15] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [33][16] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [33][17] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [33][18] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [33][19] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [33][20] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [33][21] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [33][22] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [33][23] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [33][24] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [33][25] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [33][26] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [33][27] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [33][28] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [33][29] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [33][30] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [33][31] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [33][32] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [33][33] ===========
+Same Subjects
+
+=========== For Subject pair [33][34] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [33][35] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [33][36] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [33][37] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [33][38] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [34][0] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [34][1] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [34][2] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [34][3] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [34][4] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [34][5] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [34][6] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [34][7] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [34][8] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [34][9] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [34][10] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [34][11] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [34][12] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [34][13] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [34][14] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [34][15] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [34][16] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [34][17] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [34][18] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [34][19] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [34][20] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [34][21] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [34][22] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [34][23] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [34][24] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [34][25] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [34][26] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [34][27] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [34][28] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [34][29] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [34][30] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [34][31] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [34][32] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [34][33] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [34][34] ===========
+Same Subjects
+
+=========== For Subject pair [34][35] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [34][36] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [34][37] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [34][38] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [35][0] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [35][1] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [35][2] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [35][3] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [35][4] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [35][5] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [35][6] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [35][7] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [35][8] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [35][9] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [35][10] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [35][11] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [35][12] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [35][13] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [35][14] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [35][15] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [35][16] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [35][17] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [35][18] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [35][19] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [35][20] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [35][21] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [35][22] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [35][23] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [35][24] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [35][25] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [35][26] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [35][27] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [35][28] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [35][29] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [35][30] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [35][31] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [35][32] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [35][33] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [35][34] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [35][35] ===========
+Same Subjects
+
+=========== For Subject pair [35][36] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [35][37] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [35][38] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [36][0] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [36][1] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [36][2] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [36][3] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [36][4] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [36][5] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [36][6] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [36][7] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [36][8] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [36][9] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [36][10] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [36][11] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [36][12] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [36][13] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [36][14] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [36][15] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [36][16] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [36][17] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [36][18] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [36][19] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [36][20] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [36][21] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [36][22] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [36][23] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [36][24] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [36][25] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [36][26] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [36][27] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [36][28] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [36][29] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [36][30] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [36][31] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [36][32] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [36][33] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [36][34] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [36][35] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [36][36] ===========
+Same Subjects
+
+=========== For Subject pair [36][37] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [36][38] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [37][0] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [37][1] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [37][2] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [37][3] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [37][4] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [37][5] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [37][6] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [37][7] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [37][8] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [37][9] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [37][10] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [37][11] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [37][12] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [37][13] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [37][14] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [37][15] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [37][16] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [37][17] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [37][18] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [37][19] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [37][20] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [37][21] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [37][22] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [37][23] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [37][24] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [37][25] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [37][26] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [37][27] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [37][28] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [37][29] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [37][30] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [37][31] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [37][32] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [37][33] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [37][34] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [37][35] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [37][36] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [37][37] ===========
+Same Subjects
+
+=========== For Subject pair [37][38] ===========
+Calculating Similarity Score....
+
+=========== For Subject pair [38][0] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [38][1] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [38][2] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [38][3] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [38][4] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [38][5] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [38][6] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [38][7] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [38][8] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [38][9] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [38][10] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [38][11] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [38][12] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [38][13] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [38][14] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [38][15] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [38][16] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [38][17] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [38][18] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [38][19] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [38][20] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [38][21] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [38][22] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [38][23] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [38][24] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [38][25] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [38][26] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [38][27] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [38][28] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [38][29] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [38][30] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [38][31] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [38][32] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [38][33] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [38][34] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [38][35] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [38][36] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [38][37] ===========
+Similarity_score already present for these subjects
+
+
+=========== For Subject pair [38][38] ===========
+Same Subjects
+
+######## Reduced with NMF, new data shape is  (39, 20)
+
+######## The latent semantics in image space is #######
+
+Semantic -  0
+Term Weight Pairs are:
+
+(1, 111635.00608216514)
+(4, 6897.0898524868553)
+(6, 1515.9448649504316)
+(8, 1316.794226219743)
+(15, 905.71326911959227)
+(9, 307.1064220989233)
+(2, 284.67569824934793)
+(13, 237.3367043752842)
+(3, 206.56709832746307)
+(27, 199.80961450399806)
+(24, 199.65016002861447)
+(19, 115.6222498253594)
+(34, 111.44045092087553)
+(33, 17.561282810713116)
+(16, 14.402520484289145)
+(14, 0.82614978547233053)
+(0, 0.0)
+(5, 0.0)
+(7, 0.0)
+(10, 0.0)
+(11, 0.0)
+(12, 0.0)
+(17, 0.0)
+(18, 0.0)
+(20, 0.0)
+(21, 0.0)
+(22, 0.0)
+(23, 0.0)
+(25, 0.0)
+(26, 0.0)
+(28, 0.0)
+(29, 0.0)
+(30, 0.0)
+(31, 0.0)
+(32, 0.0)
+(35, 0.0)
+(36, 0.0)
+(37, 0.0)
+(38, 0.0)
+
+Semantic -  1
+Term Weight Pairs are:
+
+(12, 217194.40642847083)
+(6, 29042.870356547413)
+(2, 316.43944464414386)
+(34, 125.34926906360299)
+(33, 60.174687526362753)
+(26, 56.800490965169317)
+(28, 50.740866301514458)
+(32, 36.050001115321237)
+(17, 12.884299599532763)
+(10, 9.4865267534217956)
+(0, 0.0)
+(1, 0.0)
+(3, 0.0)
+(4, 0.0)
+(5, 0.0)
+(7, 0.0)
+(8, 0.0)
+(9, 0.0)
+(11, 0.0)
+(13, 0.0)
+(14, 0.0)
+(15, 0.0)
+(16, 0.0)
+(18, 0.0)
+(19, 0.0)
+(20, 0.0)
+(21, 0.0)
+(22, 0.0)
+(23, 0.0)
+(24, 0.0)
+(25, 0.0)
+(27, 0.0)
+(29, 0.0)
+(30, 0.0)
+(31, 0.0)
+(35, 0.0)
+(36, 0.0)
+(37, 0.0)
+(38, 0.0)
+
+Semantic -  2
+Term Weight Pairs are:
+
+(33, 27159.253537042379)
+(29, 2325.7136822002562)
+(19, 108.86587389101776)
+(34, 107.23602701882625)
+(18, 89.748712659608316)
+(35, 83.187288633487469)
+(14, 80.065510969802929)
+(36, 78.286918071742221)
+(11, 77.299392470482246)
+(9, 73.237020071430535)
+(2, 66.377962274754225)
+(15, 51.463653550321354)
+(8, 50.999138658513495)
+(4, 49.287666150098033)
+(6, 44.687002680950073)
+(16, 37.403314205049824)
+(0, 0.0)
+(1, 0.0)
+(3, 0.0)
+(5, 0.0)
+(7, 0.0)
+(10, 0.0)
+(12, 0.0)
+(13, 0.0)
+(17, 0.0)
+(20, 0.0)
+(21, 0.0)
+(22, 0.0)
+(23, 0.0)
+(24, 0.0)
+(25, 0.0)
+(26, 0.0)
+(27, 0.0)
+(28, 0.0)
+(30, 0.0)
+(31, 0.0)
+(32, 0.0)
+(37, 0.0)
+(38, 0.0)
+
+Semantic -  3
+Term Weight Pairs are:
+
+(1, 67119.99463361263)
+(4, 7445.6202446464713)
+(6, 1387.9932337973539)
+(15, 501.81519225077068)
+(17, 211.64844315577548)
+(22, 173.74162092675874)
+(26, 84.60179094809348)
+(16, 41.056569318461271)
+(28, 32.599661104580356)
+(33, 20.804774275937039)
+(14, 9.5875803916634066)
+(0, 0.0)
+(2, 0.0)
+(3, 0.0)
+(5, 0.0)
+(7, 0.0)
+(8, 0.0)
+(9, 0.0)
+(10, 0.0)
+(11, 0.0)
+(12, 0.0)
+(13, 0.0)
+(18, 0.0)
+(19, 0.0)
+(20, 0.0)
+(21, 0.0)
+(23, 0.0)
+(24, 0.0)
+(25, 0.0)
+(27, 0.0)
+(29, 0.0)
+(30, 0.0)
+(31, 0.0)
+(32, 0.0)
+(34, 0.0)
+(35, 0.0)
+(36, 0.0)
+(37, 0.0)
+(38, 0.0)
+
+Semantic -  4
+Term Weight Pairs are:
+
+(8, 92521.369700567186)
+(13, 16051.001230346255)
+(4, 13699.906224037641)
+(6, 12382.417727207845)
+(21, 10288.001236205295)
+(5, 7387.0726134074921)
+(25, 6087.8459286665575)
+(3, 5096.898706397491)
+(22, 4882.4761536136193)
+(14, 4172.3691039274854)
+(16, 3589.4981330860705)
+(10, 2740.5294201932566)
+(24, 2391.1713558843785)
+(7, 2371.3993264051155)
+(20, 2269.2626172654805)
+(38, 2130.9223533536019)
+(9, 1940.7841893953657)
+(17, 1905.9953046586359)
+(27, 1864.4283008274735)
+(0, 1830.9466936552885)
+(36, 1801.3563816384228)
+(37, 1065.5514648692274)
+(28, 1057.1293046534981)
+(19, 1025.6776252812062)
+(23, 1002.2021139755483)
+(26, 903.71712599437274)
+(30, 765.9004275868092)
+(31, 744.75459303585728)
+(29, 653.21885981038861)
+(2, 3.8415465212704851)
+(1, 0.0)
+(11, 0.0)
+(12, 0.0)
+(15, 0.0)
+(18, 0.0)
+(32, 0.0)
+(33, 0.0)
+(34, 0.0)
+(35, 0.0)
+
+Semantic -  5
+Term Weight Pairs are:
+
+(2, 10647.45535479641)
+(10, 2441.9751606195223)
+(16, 1375.6555347364365)
+(22, 1017.9408943725433)
+(14, 861.3780553535214)
+(3, 646.49973972730936)
+(25, 497.80362346707489)
+(24, 420.08987293872343)
+(21, 310.36383965604915)
+(20, 293.19539489815378)
+(36, 271.50686313948557)
+(38, 235.44624777851641)
+(6, 210.90333503038687)
+(9, 189.09285450501707)
+(0, 187.80103586522378)
+(13, 157.70635769978111)
+(17, 154.39200587199119)
+(8, 141.11046351336577)
+(5, 140.97408647004542)
+(28, 114.52495239029858)
+(15, 113.2739690834298)
+(34, 93.073617072706924)
+(7, 85.221859266392428)
+(37, 80.873031582453919)
+(23, 73.46749614653821)
+(4, 61.087835913710393)
+(29, 51.602325365273714)
+(30, 51.149162666476848)
+(31, 49.372007484676651)
+(26, 23.739562758058767)
+(1, 0.0)
+(11, 0.0)
+(12, 0.0)
+(18, 0.0)
+(19, 0.0)
+(27, 0.0)
+(32, 0.0)
+(33, 0.0)
+(35, 0.0)
+
+Semantic -  6
+Term Weight Pairs are:
+
+(1, 15605.911159506255)
+(6, 9650.5549004229633)
+(21, 868.51405467410734)
+(25, 325.68070344277447)
+(13, 256.84383280535053)
+(5, 197.09313022018563)
+(10, 157.29757431834915)
+(18, 111.14093426773368)
+(35, 99.801356776605971)
+(11, 99.152525869351777)
+(14, 94.312783489941452)
+(36, 92.684154579914789)
+(16, 84.758164262086382)
+(20, 80.025817036681602)
+(7, 75.775861212907742)
+(38, 71.070764228958183)
+(0, 64.034798976508867)
+(37, 36.417231709024655)
+(28, 35.553646056798875)
+(23, 33.730866891618184)
+(29, 27.159145604208025)
+(30, 25.308252836791176)
+(31, 24.3918692507659)
+(2, 0.0)
+(3, 0.0)
+(4, 0.0)
+(8, 0.0)
+(9, 0.0)
+(12, 0.0)
+(15, 0.0)
+(17, 0.0)
+(19, 0.0)
+(22, 0.0)
+(24, 0.0)
+(26, 0.0)
+(27, 0.0)
+(32, 0.0)
+(33, 0.0)
+(34, 0.0)
+
+Semantic -  7
+Term Weight Pairs are:
+
+(19, 11654.099867950421)
+(26, 8457.5175233069822)
+(28, 2946.2973328414146)
+(0, 1760.5626099491626)
+(38, 1194.222471029163)
+(18, 808.69378407818283)
+(20, 807.57594055308448)
+(36, 460.91023810962048)
+(11, 373.8998677038557)
+(35, 370.62081061276069)
+(14, 368.32827868038783)
+(22, 343.78827643659446)
+(37, 320.54263821238834)
+(16, 319.60964765999427)
+(23, 272.72581111685923)
+(2, 223.65783854463646)
+(25, 217.45267742002315)
+(10, 209.48811047419562)
+(29, 181.21410775342008)
+(21, 180.95582168820596)
+(30, 156.91372303322188)
+(31, 147.55181054831763)
+(5, 128.89754776685706)
+(4, 106.36786231263373)
+(7, 104.51201958888176)
+(13, 102.83569589750793)
+(6, 74.74914071366058)
+(17, 55.126800143955883)
+(9, 43.757079701586342)
+(3, 19.867138497891904)
+(34, 16.771109819594287)
+(1, 0.0)
+(8, 0.0)
+(12, 0.0)
+(15, 0.0)
+(24, 0.0)
+(27, 0.0)
+(32, 0.0)
+(33, 0.0)
+
+Semantic -  8
+Term Weight Pairs are:
+
+(18, 67910.779526222948)
+(27, 61821.578749576649)
+(24, 40312.01354565355)
+(36, 20516.665826006883)
+(3, 18328.34792711298)
+(14, 4546.5432321686576)
+(20, 3526.4044635338605)
+(22, 3360.622293575706)
+(16, 2156.5879878851042)
+(38, 1946.2150072652366)
+(17, 1341.2418333177068)
+(0, 1298.8069830844056)
+(9, 1199.5032348955381)
+(10, 961.27927032921605)
+(25, 763.00938711510878)
+(28, 578.64542578405496)
+(21, 494.15350309972536)
+(37, 349.0270199893111)
+(5, 326.56228014210285)
+(23, 307.84690860082708)
+(13, 299.09886422972232)
+(4, 294.43083319355776)
+(7, 241.30660806446863)
+(30, 199.87345629874469)
+(29, 196.1965254267528)
+(31, 190.39304826532077)
+(6, 166.17217623070172)
+(26, 143.58749266462667)
+(8, 114.7341874614541)
+(15, 14.27413488172072)
+(1, 0.0)
+(2, 0.0)
+(11, 0.0)
+(12, 0.0)
+(19, 0.0)
+(32, 0.0)
+(33, 0.0)
+(34, 0.0)
+(35, 0.0)
+
+Semantic -  9
+Term Weight Pairs are:
+
+(12, 84660.059286595555)
+(4, 15933.118092533377)
+(21, 6332.4302015325911)
+(15, 6310.1667732535243)
+(8, 5292.7816131866666)
+(13, 3168.285464216639)
+(5, 1475.6952797592498)
+(10, 1221.8911783803858)
+(17, 1047.4555981583976)
+(18, 910.16360387680152)
+(11, 809.05926929728503)
+(35, 793.92875928125477)
+(25, 759.64130424562165)
+(7, 390.92363730855106)
+(28, 279.84586338039935)
+(26, 235.57737347321572)
+(1, 30.514095168445621)
+(29, 13.37083186638613)
+(0, 0.0)
+(2, 0.0)
+(3, 0.0)
+(6, 0.0)
+(9, 0.0)
+(14, 0.0)
+(16, 0.0)
+(19, 0.0)
+(20, 0.0)
+(22, 0.0)
+(23, 0.0)
+(24, 0.0)
+(27, 0.0)
+(30, 0.0)
+(31, 0.0)
+(32, 0.0)
+(33, 0.0)
+(34, 0.0)
+(36, 0.0)
+(37, 0.0)
+(38, 0.0)
+
+Semantic -  10
+Term Weight Pairs are:
+
+(33, 34543.675169640701)
+(30, 1270.1475137720151)
+(31, 908.54155578076586)
+(23, 863.47309581851857)
+(37, 625.15026444899547)
+(3, 274.54884200286426)
+(28, 251.8120959505772)
+(26, 251.78325076846031)
+(38, 236.82482167315763)
+(0, 235.73471433767162)
+(22, 234.73856900649241)
+(20, 216.26791252799535)
+(27, 197.35859419204809)
+(24, 177.3869467846767)
+(10, 160.45401985711692)
+(17, 153.93185571583794)
+(25, 150.52874945108843)
+(21, 142.24816509456082)
+(5, 119.08600077122655)
+(13, 114.23205616113735)
+(7, 101.43186499926939)
+(16, 80.086365950448211)
+(1, 0.0)
+(2, 0.0)
+(4, 0.0)
+(6, 0.0)
+(8, 0.0)
+(9, 0.0)
+(11, 0.0)
+(12, 0.0)
+(14, 0.0)
+(15, 0.0)
+(18, 0.0)
+(19, 0.0)
+(29, 0.0)
+(32, 0.0)
+(34, 0.0)
+(35, 0.0)
+(36, 0.0)
+
+Semantic -  11
+Term Weight Pairs are:
+
+(34, 182301.45308228646)
+(28, 64547.118406808579)
+(0, 22715.141197368579)
+(26, 20272.9438846257)
+(38, 15499.208566140342)
+(20, 10420.097386044934)
+(3, 10393.893505499604)
+(22, 8228.1155117129674)
+(14, 8023.0087558655814)
+(24, 7385.5406571041494)
+(16, 6054.5131371865846)
+(36, 4928.3760901437936)
+(37, 4320.5167182843188)
+(23, 3655.1903397072369)
+(27, 3303.0198626577539)
+(25, 3193.4005217405302)
+(10, 3118.1767611336654)
+(17, 2945.6285360343736)
+(9, 2653.7034293121574)
+(21, 2593.6247336479878)
+(29, 2304.4901841301253)
+(30, 2091.7560267320168)
+(31, 1966.010431879771)
+(5, 1866.0927251789199)
+(6, 1835.4415797735346)
+(13, 1616.3144814403054)
+(7, 1461.2883551719351)
+(2, 1189.0533434811637)
+(8, 1018.6053062697354)
+(19, 891.06578972993668)
+(4, 694.687646683406)
+(1, 0.0)
+(11, 0.0)
+(12, 0.0)
+(15, 0.0)
+(18, 0.0)
+(32, 0.0)
+(33, 0.0)
+(35, 0.0)
+
+Semantic -  12
+Term Weight Pairs are:
+
+(9, 15060.04969880568)
+(17, 14734.928278192107)
+(10, 3721.760483965033)
+(16, 2504.3625233518833)
+(22, 2061.2100819955872)
+(14, 1757.5940219623667)
+(3, 1196.052483071735)
+(25, 985.59032638340705)
+(21, 595.26040907387369)
+(20, 594.79898664657208)
+(36, 568.47511035675814)
+(38, 484.28782330439168)
+(24, 432.50251664667019)
+(0, 389.62839659475338)
+(6, 377.1102617821258)
+(13, 272.49658924046736)
+(5, 265.09356124647468)
+(4, 248.09025569540984)
+(28, 230.23069426137249)
+(15, 189.36583975274218)
+(7, 166.53843618781031)
+(37, 164.48662799591986)
+(23, 149.94298781083586)
+(34, 117.22572546811519)
+(26, 108.60519783662873)
+(30, 105.1070333693916)
+(31, 101.03844065358324)
+(29, 93.388366047345798)
+(8, 89.79670765727171)
+(19, 85.588468142008807)
+(1, 0.0)
+(2, 0.0)
+(11, 0.0)
+(12, 0.0)
+(18, 0.0)
+(27, 0.0)
+(32, 0.0)
+(33, 0.0)
+(35, 0.0)
+
+Semantic -  13
+Term Weight Pairs are:
+
+(35, 91673.202831357426)
+(27, 62406.939925749735)
+(36, 41416.303808144847)
+(11, 19837.089085345502)
+(3, 14295.681192597618)
+(20, 4066.3124835787557)
+(38, 2357.1947259765625)
+(19, 2217.4150025524041)
+(26, 1895.5453171967956)
+(0, 1774.0667800030672)
+(28, 1330.975415809148)
+(8, 1209.9177113798669)
+(15, 1192.4903120475574)
+(2, 1081.3681377330495)
+(10, 1033.962283639441)
+(16, 982.81067520233023)
+(6, 962.21418844141317)
+(25, 836.7037340492825)
+(14, 832.63150745651456)
+(21, 818.53636546003906)
+(13, 769.19891957234995)
+(22, 716.10922585918593)
+(17, 686.30801889847578)
+(9, 672.36092509243201)
+(5, 524.12726048843047)
+(37, 428.3072124867702)
+(23, 375.78146102385739)
+(34, 364.53596623294493)
+(7, 303.22358763949535)
+(4, 283.63685427189489)
+(30, 240.34884724738117)
+(29, 236.64090497880036)
+(31, 228.72897778903862)
+(1, 0.0)
+(12, 0.0)
+(18, 0.0)
+(24, 0.0)
+(32, 0.0)
+(33, 0.0)
+
+Semantic -  14
+Term Weight Pairs are:
+
+(12, 179771.95737382449)
+(4, 133870.99803982585)
+(25, 6184.203810755721)
+(9, 3954.711274183112)
+(14, 3517.8325800899106)
+(16, 3511.0893771031133)
+(22, 3376.5830383780449)
+(3, 2782.3328802509927)
+(36, 2724.4139840384373)
+(24, 2412.7294042958943)
+(20, 2307.3855840469892)
+(27, 2265.3019972651396)
+(38, 2088.7191337396389)
+(0, 1864.1776220496872)
+(19, 1321.799299066585)
+(37, 1041.45222365213)
+(23, 966.98978516191164)
+(7, 819.21229274567736)
+(30, 724.03694021347599)
+(31, 700.59044569033688)
+(5, 693.22109160869445)
+(29, 686.79915857145488)
+(1, 0.0)
+(2, 0.0)
+(6, 0.0)
+(8, 0.0)
+(10, 0.0)
+(11, 0.0)
+(13, 0.0)
+(15, 0.0)
+(17, 0.0)
+(18, 0.0)
+(21, 0.0)
+(26, 0.0)
+(28, 0.0)
+(32, 0.0)
+(33, 0.0)
+(34, 0.0)
+(35, 0.0)
+
+Semantic -  15
+Term Weight Pairs are:
+
+(32, 18077.768551514655)
+(34, 57.293215331522546)
+(19, 55.693203625916198)
+(26, 55.617969602882923)
+(18, 50.025807728347075)
+(35, 44.73077470966421)
+(11, 42.019863508180016)
+(17, 36.949488468217886)
+(2, 36.751884893347579)
+(9, 36.152270452761023)
+(10, 35.934159191067323)
+(15, 28.246781296010493)
+(8, 27.959154726286915)
+(4, 27.669940783662003)
+(6, 24.698257129566688)
+(1, 2.2656243635157991)
+(0, 0.0)
+(3, 0.0)
+(5, 0.0)
+(7, 0.0)
+(12, 0.0)
+(13, 0.0)
+(14, 0.0)
+(16, 0.0)
+(20, 0.0)
+(21, 0.0)
+(22, 0.0)
+(23, 0.0)
+(24, 0.0)
+(25, 0.0)
+(27, 0.0)
+(28, 0.0)
+(29, 0.0)
+(30, 0.0)
+(31, 0.0)
+(33, 0.0)
+(36, 0.0)
+(37, 0.0)
+(38, 0.0)
+
+Semantic -  16
+Term Weight Pairs are:
+
+(24, 25759.778678291925)
+(35, 21022.197192123582)
+(3, 7136.0377403152524)
+(18, 6020.7397363964528)
+(36, 5327.5868500330062)
+(11, 4890.1379151889923)
+(14, 3839.0963438496037)
+(22, 2773.7090299468628)
+(16, 1575.2555543504625)
+(20, 1227.8361998592347)
+(38, 704.73959372344132)
+(0, 471.95393610713046)
+(10, 454.88971213509063)
+(17, 445.91270554943958)
+(25, 349.91627527874158)
+(9, 289.15612406636478)
+(21, 217.24911028966255)
+(28, 183.03452589157999)
+(2, 159.05885822798029)
+(37, 139.62911902245708)
+(5, 128.66524495893725)
+(23, 122.80543690441286)
+(7, 101.57374879751102)
+(13, 84.933349454189113)
+(30, 77.876241799577897)
+(31, 75.577098446343555)
+(29, 56.833679321220757)
+(6, 33.093409995732607)
+(4, 12.754834431077629)
+(1, 0.0)
+(8, 0.0)
+(12, 0.0)
+(15, 0.0)
+(19, 0.0)
+(26, 0.0)
+(27, 0.0)
+(32, 0.0)
+(33, 0.0)
+(34, 0.0)
+
+Semantic -  17
+Term Weight Pairs are:
+
+(15, 11566.186754809649)
+(13, 2541.3045272423619)
+(6, 1596.232002704887)
+(21, 1228.3576203900816)
+(5, 942.16489441194631)
+(25, 710.05275239266712)
+(3, 672.40514792039369)
+(22, 616.6308643555451)
+(14, 520.88775826745018)
+(16, 448.96523625940125)
+(10, 363.6220858160176)
+(24, 297.30829267905813)
+(7, 293.25910366869908)
+(4, 281.63480788526903)
+(20, 274.49486434945283)
+(27, 264.26069342350905)
+(38, 259.79494351443589)
+(0, 224.85620609178025)
+(36, 213.16667332290754)
+(2, 194.34594050833164)
+(9, 189.42196290519556)
+(17, 181.61848596492416)
+(28, 147.81271967441685)
+(37, 128.13025167502659)
+(19, 121.8234417764001)
+(23, 120.47717804945698)
+(26, 114.55583350742026)
+(30, 91.861050009049535)
+(31, 89.361500170864232)
+(29, 77.744362874456428)
+(34, 49.915650603496722)
+(1, 0.0)
+(8, 0.0)
+(11, 0.0)
+(12, 0.0)
+(18, 0.0)
+(32, 0.0)
+(33, 0.0)
+(35, 0.0)
+
+Semantic -  18
+Term Weight Pairs are:
+
+(32, 21255.531542349119)
+(29, 5462.9333123816396)
+(30, 1257.3628727955183)
+(31, 938.35757097435521)
+(23, 857.92079445716945)
+(37, 665.07803318313654)
+(3, 359.85773820985946)
+(14, 359.52907209282762)
+(22, 357.41343297238814)
+(38, 288.93649241022587)
+(0, 272.86109772064401)
+(20, 263.89362612797629)
+(16, 263.82988305373738)
+(28, 243.8855750790141)
+(36, 241.3614880286049)
+(24, 197.28554319071037)
+(27, 193.05616516993149)
+(25, 173.31451395501924)
+(21, 160.69622057559329)
+(5, 128.688241074014)
+(13, 112.42222631291929)
+(7, 109.24217007438078)
+(1, 0.0)
+(2, 0.0)
+(4, 0.0)
+(6, 0.0)
+(8, 0.0)
+(9, 0.0)
+(10, 0.0)
+(11, 0.0)
+(12, 0.0)
+(15, 0.0)
+(17, 0.0)
+(18, 0.0)
+(19, 0.0)
+(26, 0.0)
+(33, 0.0)
+(34, 0.0)
+(35, 0.0)
+
+Semantic -  19
+Term Weight Pairs are:
+
+(11, 148030.10458575655)
+(27, 92384.688851305284)
+(18, 60757.698767261303)
+(14, 32022.794791877506)
+(3, 24478.077722932427)
+(22, 22982.977053613882)
+(16, 12894.707543277817)
+(20, 5930.7658627204364)
+(2, 4053.4853811670851)
+(10, 3885.8803633465673)
+(38, 3833.0387274831105)
+(17, 3820.5323645840995)
+(0, 2821.213888385028)
+(9, 2704.4815759361377)
+(25, 2628.723901031487)
+(34, 2305.4380079259363)
+(28, 1847.8209543341038)
+(21, 1796.0636928099582)
+(4, 1396.2434178882704)
+(5, 1013.1396277053284)
+(37, 926.88536867165624)
+(13, 903.65980577497021)
+(23, 828.19796946059967)
+(7, 715.56063203807264)
+(29, 606.75642067508988)
+(30, 553.93739008112811)
+(31, 530.60939325146671)
+(6, 417.49358747443426)
+(8, 192.90491668555848)
+(1, 0.0)
+(12, 0.0)
+(15, 0.0)
+(19, 0.0)
+(24, 0.0)
+(26, 0.0)
+(32, 0.0)
+(33, 0.0)
+(35, 0.0)
+(36, 0.0)
+
+######## The latent semantics in feature space is #######
+
+Semantic -  0
+Term Weight Pairs are:
+
+(12, 43419.76478615198)
+(6, 5937.1281898714187)
+(4, 1488.8429574738661)
+(15, 360.73152697402463)
+(17, 110.37939527932913)
+(2, 110.25055154236381)
+(24, 77.807782926841099)
+(11, 76.926805916275583)
+(26, 43.257893360577008)
+(10, 37.496773154868862)
+(34, 37.21753480300854)
+(13, 22.753756954111651)
+(28, 21.723097872653035)
+(33, 18.022461543967037)
+(32, 16.19267127505309)
+(8, 15.57037781483116)
+(22, 8.5896098437364365)
+(0, 0.0)
+(1, 0.0)
+(3, 0.0)
+(5, 0.0)
+(7, 0.0)
+(9, 0.0)
+(14, 0.0)
+(16, 0.0)
+(18, 0.0)
+(19, 0.0)
+(20, 0.0)
+(21, 0.0)
+(23, 0.0)
+(25, 0.0)
+(27, 0.0)
+(29, 0.0)
+(30, 0.0)
+(31, 0.0)
+(35, 0.0)
+(36, 0.0)
+(37, 0.0)
+(38, 0.0)
+
+Semantic -  1
+Term Weight Pairs are:
+
+(1, 39156.646000040993)
+(4, 3341.8920052547687)
+(15, 269.10708224103314)
+(24, 39.353102875903254)
+(34, 22.874318465582814)
+(33, 10.901163455099869)
+(32, 10.89414703350519)
+(26, 8.373993944594428)
+(28, 2.0471522527891466)
+(12, 1.1541946348072811)
+(3, 0.14824224954970011)
+(0, 0.0)
+(2, 0.0)
+(5, 0.0)
+(6, 0.0)
+(7, 0.0)
+(8, 0.0)
+(9, 0.0)
+(10, 0.0)
+(11, 0.0)
+(13, 0.0)
+(14, 0.0)
+(16, 0.0)
+(17, 0.0)
+(18, 0.0)
+(19, 0.0)
+(20, 0.0)
+(21, 0.0)
+(22, 0.0)
+(23, 0.0)
+(25, 0.0)
+(27, 0.0)
+(29, 0.0)
+(30, 0.0)
+(31, 0.0)
+(35, 0.0)
+(36, 0.0)
+(37, 0.0)
+(38, 0.0)
+
+Semantic -  2
+Term Weight Pairs are:
+
+(32, 44807.649670221188)
+(23, 260.4354522412533)
+(26, 186.3015542583689)
+(28, 172.24388511873005)
+(27, 146.38166454110828)
+(36, 141.50817301780515)
+(35, 135.86698021007226)
+(3, 124.09778387312974)
+(22, 123.86996495461051)
+(18, 123.53895356298976)
+(17, 121.08664560935776)
+(10, 111.1006458340302)
+(2, 107.31566256062314)
+(8, 83.943121176346509)
+(15, 83.845177685588737)
+(13, 21.023087427052033)
+(12, 14.547623078021926)
+(0, 0.0)
+(1, 0.0)
+(4, 0.0)
+(5, 0.0)
+(6, 0.0)
+(7, 0.0)
+(9, 0.0)
+(11, 0.0)
+(14, 0.0)
+(16, 0.0)
+(19, 0.0)
+(20, 0.0)
+(21, 0.0)
+(24, 0.0)
+(25, 0.0)
+(29, 0.0)
+(30, 0.0)
+(31, 0.0)
+(33, 0.0)
+(34, 0.0)
+(37, 0.0)
+(38, 0.0)
+
+Semantic -  3
+Term Weight Pairs are:
+
+(12, 57371.538791115847)
+(6, 7062.504522230669)
+(8, 587.72186379098196)
+(9, 201.67007991101593)
+(14, 123.93197679388685)
+(18, 88.658804377632933)
+(13, 77.798540638870065)
+(19, 77.664031256012962)
+(16, 62.327499735781629)
+(15, 23.043462961731578)
+(34, 12.441529522213152)
+(32, 8.2048194585385463)
+(2, 3.9270890217337375)
+(33, 2.2888993378496751)
+(0, 0.1437423288747641)
+(1, 0.0)
+(3, 0.0)
+(4, 0.0)
+(5, 0.0)
+(7, 0.0)
+(10, 0.0)
+(11, 0.0)
+(17, 0.0)
+(20, 0.0)
+(21, 0.0)
+(22, 0.0)
+(23, 0.0)
+(24, 0.0)
+(25, 0.0)
+(26, 0.0)
+(27, 0.0)
+(28, 0.0)
+(29, 0.0)
+(30, 0.0)
+(31, 0.0)
+(35, 0.0)
+(36, 0.0)
+(37, 0.0)
+(38, 0.0)
+
+Semantic -  4
+Term Weight Pairs are:
+
+(15, 3789.1494010506558)
+(13, 823.86824862878552)
+(4, 548.52655783308489)
+(21, 381.25816119730882)
+(5, 307.60178810165064)
+(25, 240.81324239540623)
+(14, 203.90779777068494)
+(11, 191.89822768125967)
+(22, 176.11648013445736)
+(16, 142.78302514839169)
+(10, 98.394061495227547)
+(7, 96.657211727134083)
+(20, 90.511634482753081)
+(38, 84.37686577478766)
+(3, 79.184254497820334)
+(0, 72.231124327487933)
+(28, 44.763255879897756)
+(37, 42.803863150036911)
+(34, 41.324031651224416)
+(23, 40.315947775999511)
+(6, 33.817889943858091)
+(30, 30.84273971953213)
+(31, 30.02398387828968)
+(29, 29.765939178674856)
+(2, 29.608251854749419)
+(36, 27.101055941393998)
+(26, 10.215498886335761)
+(9, 4.8120978516020694)
+(24, 3.9222221685714698)
+(19, 0.8187190933809062)
+(1, 0.0)
+(8, 0.0)
+(12, 0.0)
+(17, 0.0)
+(18, 0.0)
+(27, 0.0)
+(32, 0.0)
+(33, 0.0)
+(35, 0.0)
+
+Semantic -  5
+Term Weight Pairs are:
+
+(9, 40931.448629624545)
+(17, 40045.489962134285)
+(10, 10121.702896856894)
+(16, 6825.4053526114121)
+(22, 5637.7320168672923)
+(14, 4957.3763173813213)
+(11, 3506.9073854157555)
+(25, 2681.6758701316526)
+(3, 2403.8116640057751)
+(18, 1770.5304698534587)
+(20, 1675.354703978908)
+(21, 1604.4942516818367)
+(36, 1423.5101302055148)
+(38, 1318.6275762915329)
+(35, 1131.9075143495279)
+(6, 1033.2428151662741)
+(0, 1027.769518738452)
+(4, 983.90265755189535)
+(13, 722.25033075419287)
+(5, 712.76287376763332)
+(15, 569.08636790470109)
+(28, 495.15471484087954)
+(7, 450.96723207139348)
+(37, 441.93731638548326)
+(23, 403.34708490533058)
+(29, 292.88659324003538)
+(30, 283.12942118979328)
+(31, 272.42963625923892)
+(26, 170.8883910462807)
+(19, 129.37592604928437)
+(1, 0.0)
+(2, 0.0)
+(8, 0.0)
+(12, 0.0)
+(24, 0.0)
+(27, 0.0)
+(32, 0.0)
+(33, 0.0)
+(34, 0.0)
+
+Semantic -  6
+Term Weight Pairs are:
+
+(12, 90702.056954922489)
+(4, 32680.499971809539)
+(21, 4599.4344411948105)
+(25, 1766.2107630687062)
+(15, 1704.4757748111062)
+(13, 1639.0828156016776)
+(5, 1092.6420292959156)
+(8, 1042.1400452645755)
+(27, 622.44011320399079)
+(10, 619.51315449350375)
+(36, 569.4424143564446)
+(35, 564.16758275785105)
+(3, 551.87930358418282)
+(22, 512.82827941803089)
+(20, 431.94307199153894)
+(7, 418.20290962510802)
+(16, 392.03471671652613)
+(38, 383.99299138991023)
+(0, 344.45596226097723)
+(37, 200.41954877509684)
+(23, 186.34164868411662)
+(28, 170.428231577823)
+(29, 158.00025248385558)
+(30, 142.22443530529748)
+(31, 136.09647395967585)
+(18, 131.10939185211231)
+(14, 39.476940660989285)
+(26, 9.1076630458851557)
+(1, 0.0)
+(2, 0.0)
+(6, 0.0)
+(9, 0.0)
+(11, 0.0)
+(17, 0.0)
+(19, 0.0)
+(24, 0.0)
+(32, 0.0)
+(33, 0.0)
+(34, 0.0)
+
+Semantic -  7
+Term Weight Pairs are:
+
+(34, 31041.477855550496)
+(28, 12197.027432160738)
+(26, 6941.9883693996944)
+(19, 4967.6515195330367)
+(0, 4573.1495514160742)
+(38, 3109.2871233785004)
+(20, 2095.7823811144258)
+(36, 1723.981259824988)
+(27, 1555.7812422809313)
+(35, 1350.4862764467755)
+(3, 1146.3024584792072)
+(22, 1101.5005014762878)
+(14, 983.05512072539022)
+(16, 941.81247237866137)
+(37, 857.68121780992942)
+(23, 727.98912595987622)
+(10, 613.15729711306108)
+(25, 591.70310555141532)
+(17, 585.02915741739594)
+(9, 564.31936862693328)
+(21, 446.80861345915588)
+(29, 443.24128181368553)
+(30, 414.92064615422947)
+(31, 389.81402577048789)
+(2, 362.78428731385634)
+(5, 341.20409712831588)
+(4, 322.05373079171818)
+(7, 278.45260515694667)
+(13, 269.60967434169561)
+(6, 214.13342333651136)
+(1, 0.0)
+(8, 0.0)
+(11, 0.0)
+(12, 0.0)
+(15, 0.0)
+(18, 0.0)
+(24, 0.0)
+(32, 0.0)
+(33, 0.0)
+
+Semantic -  8
+Term Weight Pairs are:
+
+(35, 9189.1635681931566)
+(11, 3908.5777547410671)
+(36, 2121.8754447241995)
+(24, 376.46924755482303)
+(20, 291.47288480907565)
+(14, 262.88845753056501)
+(38, 151.28293408697016)
+(2, 123.92368246396106)
+(17, 106.98022217112373)
+(16, 100.14814570189469)
+(0, 98.119904577435577)
+(10, 93.856689651247422)
+(9, 92.233169960413989)
+(22, 87.296737994757862)
+(25, 50.868811959031106)
+(28, 40.982522387843765)
+(21, 28.614612162442199)
+(4, 26.08061793569895)
+(37, 23.855214404954371)
+(23, 20.775926814807551)
+(6, 19.288709928479417)
+(5, 19.223857865476905)
+(7, 15.82399937068111)
+(30, 11.824562006545007)
+(31, 11.782020603796187)
+(13, 11.405377488269234)
+(29, 11.300036720848665)
+(1, 0.0)
+(3, 0.0)
+(8, 0.0)
+(12, 0.0)
+(15, 0.0)
+(18, 0.0)
+(19, 0.0)
+(26, 0.0)
+(27, 0.0)
+(32, 0.0)
+(33, 0.0)
+(34, 0.0)
+
+Semantic -  9
+Term Weight Pairs are:
+
+(1, 11005.114135789147)
+(6, 9144.6210131328717)
+(9, 187.13292774767348)
+(13, 165.5052366410516)
+(2, 157.4481666484339)
+(27, 144.97963520353497)
+(36, 131.41909939299498)
+(8, 122.85506912230056)
+(35, 118.11518972290968)
+(19, 68.715467701630629)
+(25, 61.537142894924855)
+(5, 53.926542863603963)
+(15, 39.307256059485731)
+(7, 9.4940561718773591)
+(0, 0.0)
+(3, 0.0)
+(4, 0.0)
+(10, 0.0)
+(11, 0.0)
+(12, 0.0)
+(14, 0.0)
+(16, 0.0)
+(17, 0.0)
+(18, 0.0)
+(20, 0.0)
+(21, 0.0)
+(22, 0.0)
+(23, 0.0)
+(24, 0.0)
+(26, 0.0)
+(28, 0.0)
+(29, 0.0)
+(30, 0.0)
+(31, 0.0)
+(32, 0.0)
+(33, 0.0)
+(34, 0.0)
+(37, 0.0)
+(38, 0.0)
+
+Semantic -  10
+Term Weight Pairs are:
+
+(32, 20198.090799887552)
+(29, 3221.1417389922722)
+(30, 683.83064766129667)
+(31, 493.90412632351212)
+(37, 344.81937371958816)
+(23, 249.36015451739371)
+(11, 159.16679750972102)
+(14, 150.38802068993692)
+(0, 142.36809965277922)
+(19, 138.68898628920172)
+(38, 138.29550622800093)
+(34, 133.68196387636422)
+(20, 124.48191864306706)
+(16, 110.36185788358651)
+(24, 103.65186703753626)
+(9, 90.694662216357301)
+(25, 86.445249005065961)
+(21, 77.527217020758172)
+(5, 67.428425839528714)
+(6, 66.502260977374291)
+(4, 66.250265968955247)
+(7, 56.226820378201168)
+(13, 48.34196799646557)
+(1, 0.0)
+(2, 0.0)
+(3, 0.0)
+(8, 0.0)
+(10, 0.0)
+(12, 0.0)
+(15, 0.0)
+(17, 0.0)
+(18, 0.0)
+(22, 0.0)
+(26, 0.0)
+(27, 0.0)
+(28, 0.0)
+(33, 0.0)
+(35, 0.0)
+(36, 0.0)
+
+Semantic -  11
+Term Weight Pairs are:
+
+(19, 1982.2807471191556)
+(26, 1441.9864757702783)
+(28, 514.05931367375354)
+(0, 304.599846454866)
+(38, 206.90382474849781)
+(20, 138.96240001545323)
+(11, 135.48111074625277)
+(14, 107.02578720858067)
+(22, 95.255665296497696)
+(16, 70.079358245442108)
+(37, 55.577736886670024)
+(18, 55.031476796556149)
+(23, 47.292606591720769)
+(3, 43.729063752850486)
+(36, 41.860623754027955)
+(25, 38.865982665486037)
+(34, 38.231586002019831)
+(21, 31.414309418571726)
+(29, 29.39524102440437)
+(10, 28.896714131813805)
+(30, 26.914949725410256)
+(6, 25.670113924865099)
+(31, 25.415134955005424)
+(5, 23.44766317816266)
+(4, 21.017652511145005)
+(13, 20.259814077221211)
+(7, 18.587005210795645)
+(35, 14.114149205161102)
+(15, 8.4835127159688035)
+(2, 3.7276026066660752)
+(17, 2.935097859117894)
+(1, 0.0)
+(8, 0.0)
+(9, 0.0)
+(12, 0.0)
+(24, 0.0)
+(27, 0.0)
+(32, 0.0)
+(33, 0.0)
+
+Semantic -  12
+Term Weight Pairs are:
+
+(2, 28961.722291355378)
+(10, 8150.3259575083721)
+(9, 6719.2951390400967)
+(17, 6481.6368082846402)
+(16, 4722.8030038603301)
+(22, 3533.495377108628)
+(14, 3023.3581652665657)
+(25, 1707.3992292929986)
+(3, 1586.3858921790263)
+(11, 1516.7443119500601)
+(18, 1218.4097684174988)
+(20, 1059.9122417708572)
+(21, 961.21718757050633)
+(36, 904.72871075699152)
+(38, 840.18859422882838)
+(4, 689.1332414876191)
+(0, 669.35255418435793)
+(5, 426.36461013699932)
+(28, 415.62169373166392)
+(13, 384.2715111521307)
+(34, 362.77287815118899)
+(24, 321.65684620234589)
+(37, 281.33657446187414)
+(7, 279.8371652957652)
+(23, 256.61110953510484)
+(35, 247.23346393737739)
+(6, 209.93363598901959)
+(30, 177.73064362713427)
+(29, 175.39379309607864)
+(31, 171.22769524945471)
+(26, 89.440565836031709)
+(8, 60.507329395618804)
+(1, 0.0)
+(12, 0.0)
+(15, 0.0)
+(19, 0.0)
+(27, 0.0)
+(32, 0.0)
+(33, 0.0)
+
+Semantic -  13
+Term Weight Pairs are:
+
+(18, 6167.790715791456)
+(24, 4026.8323065370687)
+(36, 527.78101748972722)
+(20, 220.2336505152586)
+(17, 199.73713294139509)
+(9, 193.79040555939318)
+(2, 168.20528859871709)
+(38, 121.60020843866097)
+(10, 113.14823308230035)
+(0, 89.406478627993252)
+(19, 79.017472135549383)
+(14, 76.05409246036244)
+(26, 71.237438409457894)
+(28, 64.914239914163957)
+(25, 49.863339662425787)
+(16, 42.24649699651291)
+(21, 38.67366383351353)
+(15, 35.049173477644004)
+(13, 33.367699891581893)
+(34, 31.748174906769687)
+(8, 28.789878408911925)
+(4, 25.714853438411243)
+(5, 25.007811132799795)
+(37, 22.176098873632462)
+(23, 19.464989177286814)
+(7, 15.422613172065384)
+(29, 15.12124392340902)
+(6, 13.905314650639619)
+(30, 12.924953743608343)
+(31, 12.169298176338298)
+(1, 0.0)
+(3, 0.0)
+(11, 0.0)
+(12, 0.0)
+(22, 0.0)
+(27, 0.0)
+(32, 0.0)
+(33, 0.0)
+(35, 0.0)
+
+Semantic -  14
+Term Weight Pairs are:
+
+(1, 3759.0865680283678)
+(6, 1383.0920318136154)
+(21, 423.40453751002332)
+(8, 263.85745005406272)
+(25, 127.7695467495367)
+(13, 110.39331089664974)
+(10, 79.456901829139625)
+(5, 73.576327637344733)
+(17, 67.64528252240531)
+(22, 62.765675079334613)
+(16, 58.993602127734356)
+(14, 55.56493717608592)
+(11, 55.350622619737806)
+(3, 47.4916021455943)
+(18, 44.95080885189536)
+(20, 40.550154335104352)
+(15, 36.841623424224267)
+(38, 36.530163305339684)
+(7, 32.242285485176936)
+(0, 32.083159172025198)
+(28, 25.763757788935873)
+(37, 18.157306350527001)
+(26, 16.993174996796608)
+(23, 16.940950898343701)
+(29, 14.053105067922035)
+(30, 12.928252021522544)
+(31, 12.393440324100238)
+(2, 0.0)
+(4, 0.0)
+(9, 0.0)
+(12, 0.0)
+(19, 0.0)
+(24, 0.0)
+(27, 0.0)
+(32, 0.0)
+(33, 0.0)
+(34, 0.0)
+(35, 0.0)
+(36, 0.0)
+
+Semantic -  15
+Term Weight Pairs are:
+
+(33, 81963.624664089439)
+(29, 4084.2305845292626)
+(26, 261.69160763392722)
+(19, 253.0534694486106)
+(34, 250.56034444088155)
+(28, 247.70272642868693)
+(27, 219.51712936404886)
+(36, 213.76811656947683)
+(35, 196.62785334820828)
+(24, 174.06299362157358)
+(9, 169.91519452217733)
+(2, 168.26587678692894)
+(17, 165.32859704550208)
+(8, 130.43632581256247)
+(12, 130.36825100170225)
+(15, 130.35068201590971)
+(1, 51.907597419536877)
+(0, 0.0)
+(3, 0.0)
+(4, 0.0)
+(5, 0.0)
+(6, 0.0)
+(7, 0.0)
+(10, 0.0)
+(11, 0.0)
+(13, 0.0)
+(14, 0.0)
+(16, 0.0)
+(18, 0.0)
+(20, 0.0)
+(21, 0.0)
+(22, 0.0)
+(23, 0.0)
+(25, 0.0)
+(30, 0.0)
+(31, 0.0)
+(32, 0.0)
+(37, 0.0)
+(38, 0.0)
+
+Semantic -  16
+Term Weight Pairs are:
+
+(27, 29342.043112063962)
+(11, 15874.955460840612)
+(18, 9079.7122067570326)
+(3, 7576.4921746083892)
+(36, 4831.1723121757059)
+(14, 4214.0462811154848)
+(22, 3246.7268517857178)
+(16, 1779.5006246164596)
+(20, 1051.850896849355)
+(38, 643.63823629200351)
+(0, 445.85277751871666)
+(10, 382.90047310805659)
+(25, 347.40792012607017)
+(28, 220.35571420367037)
+(21, 216.31688218639815)
+(2, 180.6051526396113)
+(37, 136.58739352584772)
+(5, 128.87535932527757)
+(34, 123.91879593088169)
+(23, 120.74906292545352)
+(4, 113.70639679524605)
+(17, 105.11799095555948)
+(7, 100.46271149439144)
+(13, 88.714918260960559)
+(29, 81.989911305925617)
+(30, 76.962213599014646)
+(31, 74.707082440345673)
+(6, 54.926871590305716)
+(1, 0.0)
+(8, 0.0)
+(9, 0.0)
+(12, 0.0)
+(15, 0.0)
+(19, 0.0)
+(24, 0.0)
+(26, 0.0)
+(32, 0.0)
+(33, 0.0)
+(35, 0.0)
+
+Semantic -  17
+Term Weight Pairs are:
+
+(8, 30248.960240425447)
+(4, 5435.8387600423721)
+(13, 5182.3687856147044)
+(21, 3208.1927026366839)
+(5, 2398.214019160665)
+(25, 1959.1943578729474)
+(14, 1699.4258126212803)
+(11, 1673.2006500881939)
+(22, 1443.7937751497934)
+(16, 1164.1206747929955)
+(10, 794.73547463157354)
+(7, 772.90286099990976)
+(20, 746.10611351173441)
+(38, 699.37952216264648)
+(3, 663.58242913619745)
+(0, 611.4586341060384)
+(6, 442.61020195698387)
+(28, 417.28919827470543)
+(37, 349.80332977009766)
+(34, 338.17113973407567)
+(23, 328.61124933411838)
+(30, 249.82453468795973)
+(31, 243.2365532566586)
+(29, 242.09627876617003)
+(26, 216.52097489084065)
+(36, 215.53966234034928)
+(19, 167.02399704898934)
+(24, 152.26166544715397)
+(17, 90.584124477683972)
+(35, 78.673707319706054)
+(9, 39.686400779074852)
+(1, 0.0)
+(2, 0.0)
+(12, 0.0)
+(15, 0.0)
+(18, 0.0)
+(27, 0.0)
+(32, 0.0)
+(33, 0.0)
+
+Semantic -  18
+Term Weight Pairs are:
+
+(33, 20330.338077533645)
+(29, 1420.2398794301407)
+(30, 1304.265980529336)
+(31, 959.89812076354588)
+(23, 903.56810281424578)
+(37, 690.24496594164839)
+(14, 354.27087695936274)
+(11, 340.78670287332795)
+(22, 338.52447588959421)
+(38, 287.46217606639931)
+(0, 283.55664336729393)
+(20, 267.97724334129197)
+(16, 252.35419296684282)
+(3, 194.87347120600404)
+(18, 173.57482737555398)
+(25, 164.91209148444457)
+(10, 147.68212832324141)
+(21, 138.3350429320482)
+(6, 136.22275922562605)
+(5, 126.92767664804059)
+(4, 113.90906842439205)
+(7, 110.13345819364856)
+(13, 107.78510776348901)
+(1, 0.0)
+(2, 0.0)
+(8, 0.0)
+(9, 0.0)
+(12, 0.0)
+(15, 0.0)
+(17, 0.0)
+(19, 0.0)
+(24, 0.0)
+(26, 0.0)
+(27, 0.0)
+(28, 0.0)
+(32, 0.0)
+(34, 0.0)
+(35, 0.0)
+(36, 0.0)
+
+Semantic -  19
+Term Weight Pairs are:
+
+(24, 4129.0541464161643)
+(3, 1941.2231720214554)
+(35, 1441.2196090598384)
+(27, 1060.9451890104788)
+(14, 791.61130606226504)
+(36, 666.31403610037353)
+(22, 652.54024915597984)
+(16, 362.49301063235447)
+(20, 156.15588279117469)
+(17, 120.35865701370837)
+(10, 107.19002834064162)
+(38, 104.11757217583128)
+(9, 94.577490138499996)
+(2, 93.447045592567903)
+(0, 76.229985261230368)
+(25, 73.313223005977832)
+(21, 49.753118020623155)
+(28, 38.472390778688506)
+(26, 30.004776919622952)
+(19, 28.976749952451772)
+(5, 28.45500592406043)
+(13, 26.419524990945078)
+(37, 25.320972910244546)
+(4, 24.744469242943758)
+(23, 22.620008642659617)
+(7, 19.906682703130144)
+(29, 16.240528925771969)
+(30, 15.178666376122932)
+(31, 14.548746372682592)
+(15, 7.7650347052042203)
+(6, 6.9077497713664071)
+(8, 2.836509587517162)
+(1, 0.0)
+(11, 0.0)
+(12, 0.0)
+(18, 0.0)
+(32, 0.0)
+(33, 0.0)
+(34, 0.0)

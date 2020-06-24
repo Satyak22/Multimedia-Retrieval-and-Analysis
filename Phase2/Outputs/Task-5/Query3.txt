@@ -1,0 +1,4 @@
+distance score for without accessories is 8047.426453803904
+Similarity score for without accessories is 0.012426332887171827
+Threshold_score score for without accessories is 8873.413556431082
+The given image Hand_0001395.jpg belongs to class without accessories

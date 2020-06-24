@@ -1,0 +1,23 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+numpy = "*"
+opencv-python = "*"
+scipy = "*"
+pymongo = "*"
+scikit-image = "*"
+matplotlib = "*"
+opencv-contrib-python-nonfree = "*"
+pandas = "*"
+scikit-learn = "*"
+openpyxl = "*"
+cvxopt = "*"
+autopep8 = "*"
+
+[requires]
+python_version = "3.7"

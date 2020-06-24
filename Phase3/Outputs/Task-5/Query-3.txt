@@ -1,0 +1,3 @@
+Initializing LSH index with 10 Layers and 5 Hashes
+Number of unique images considered = 25
+Number of overall Images considerd = 40

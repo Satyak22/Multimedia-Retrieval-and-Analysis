@@ -1,0 +1,82 @@
+MWDB Project - General design
+
+Language - Python3
+Database - MongoDB ( grab the latest version )
+DB Driver - PyMongo ( grab the latest version )
+Librarires:
+Whenever you add a library - use pip to install them. 
+After installing librarires, Please document the version and library name in the requirements.txt file. 
+Use the command - 
+`pip freeze --local > requirements.txt`
+
+Database Schema: 
+We'll use two "collections" - just similar to tables in MongoDB.
+
+ImageFeatures collections
+6 columns
+1. ImageID  - Numeric
+2. PathToImage - String
+3. Color Moments - Array[float]
+4. LBP - Array[float]
+5. HOG - Array[float]
+6. SIFT - Array[Array[float]]
+
+ImageSimilarityCollection
+2 columns
+1. ImageID
+2. SimilarityScore
+
+
+
+Task 1 :
+Just One method - ApplyModelName(ImageID, PathToImage, HandleToTheDB) as the parameters. 
+    parameters:
+        1. ImageID - id of the image - will be the key in the databse.
+        2. PathToImage - Path to the image on the filesystem.
+        3. HandleTotheDB - mongoDB connection object - Initialize the db connection in main() and pass the handle here.
+
+    Operation:
+        1. Do whatever is needed to perform the transformation
+        2. Store the vector in the MongoDB with the Key as the ImageID. (Could either be an insert(first feature) or an Update(second feature))
+        3. Print the vector
+    Returns:
+        The vector
+
+Task 2:
+Modify Main() method to accept the ImageFolder as a command-line argument. Write a method that processes all images in the ImageFolder.
+
+ProcessImageFolder() method
+    Parameters:
+        1. ImageFolder - Path to the folder containing the images
+        2. HandleToTheDB - Database handle, main Initializes the connection and passes it to the method
+    Operation:
+        1. Iterate over the files, and call both the ApplyModelName() functions for each image.
+    Returns:
+        None.
+
+Task 3:
+Modify Main() to accept three additional Parameters - K, ImageID, and ModelToUse
+
+FindKSimilarImages() method
+    Parameters:
+        1. K - Number of similar images to Find
+        2. ImageID - The base image - The image to compare against
+        3. HandleToTheDB - Database handle, main Initializes the connection and passes it to the method
+        4. ModelToUse - What feature do we use to compare
+    Operation:
+        1. Have a if-else check on the ModelToUse variable, and call ComputeSimilarImageModelName() function (described later)
+        2. Do a "select * from ImageSimilarityCollection collection, order by SimilarityScore desc limit K;", and just return the image IDs
+    Returns:
+        1. An array of length K - containing "similar" Images.
+
+
+ComputeSimilarImageModelName() method
+    Parameters:
+        1. ImageId - The image to compare against
+        2. HandleToTheDB - Database handle, main Initializes the connection and passes it to the method
+    Operation:
+        1. Based on the Model type, use a particular distance function, and compute the distances from the currentImage, with all other images in the DB.
+        2. Empty the ImageSimilarityCollection, and Insert the imageID, and the corresponding score into the ImageSimilarityCollection. 
+    Returns:
+        1. None, all the values should be in the ImageSimilarityCollection Collection.
+

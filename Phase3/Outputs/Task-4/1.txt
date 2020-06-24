@@ -1,0 +1,136 @@
+Processing Metadata...
+Extracting HOG of images in /Users/tsekar/Downloads/phase3_sample_data/Labelled/Set2
+There are 100 images in the directory
+Extraction complete, please inspect database.
+reducing dimensions...
+reducing dimensions...
+     pcost       dcost       gap    pres   dres
+ 0: -4.1134e+01 -1.5382e+02  1e+02  2e-15  4e-16
+ 1: -4.2962e+01 -5.0136e+01  7e+00  2e-15  3e-16
+ 2: -4.4747e+01 -4.5559e+01  8e-01  9e-16  2e-16
+ 3: -4.4942e+01 -4.5024e+01  8e-02  3e-15  2e-16
+ 4: -4.4960e+01 -4.4967e+01  7e-03  2e-16  2e-16
+ 5: -4.4961e+01 -4.4962e+01  6e-04  3e-15  2e-16
+ 6: -4.4961e+01 -4.4961e+01  4e-05  1e-15  2e-16
+Optimal solution found.
+[0.70086038 0.99275048 0.88190817 0.99362743 0.96037097 0.70887655
+ 0.73259983 0.79852592 0.94321763 0.99372211 0.98803048 0.99968948
+ 0.93047069 0.96197765 0.99968964 0.79395787 0.94838741 0.99085298
+ 0.7260939  0.9805901  0.86700717 0.96702494 0.91806756 0.90350411
+ 0.99446809 0.99373031 0.86545928 0.78322817 0.9576064  0.86794718
+ 0.99372786 0.95760639 0.86632132 0.97281065 0.94238487 0.67959348
+ 0.97675311 0.86149732 0.81329863 0.90696505 0.89046469 0.70887655
+ 0.76380694 0.9896134  0.99361833 0.75420749 0.86628671 0.78322817
+ 0.99283355 0.96037099 0.99968789 0.95337786 0.98798854 0.99255171
+ 0.99180542 0.96242429 0.95271089 0.84235133 0.63346413 0.9996885
+ 0.93384834 0.96236785 0.94449706 0.96702661 0.95337786 0.94450347
+ 0.80016499 0.99271332 0.98544672 0.91272261 0.81329863 0.93478822
+ 0.98876654 0.95017197 0.96027316 0.99968949 0.81553821 0.95951149
+ 0.76579863 0.78311574 0.86583201 0.90742012 0.78508335 0.87501131
+ 0.81797745 0.64417441 0.84211603 0.92880412 0.87246381 0.99180542
+ 0.84993466 0.99966702 0.83363631 0.94362388 0.95636411 0.94838787
+ 0.68477484 0.94352981 0.70402356 0.98532019]
+100 support vectors out of 100 points
+Bias is 0.0
+[-1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, 1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, 1.0, 1.0, -1.0, -1.0, 1.0, 1.0, -1.0, 1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, 1.0, -1.0, -1.0, -1.0, 1.0, -1.0, -1.0, -1.0, -1.0, -1.0, 1.0, 1.0, -1.0, -1.0, -1.0, 1.0, -1.0, 1.0, 1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, 1.0, -1.0, -1.0, -1.0, -1.0, -1.0, 1.0, -1.0, -1.0, 1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, 1.0, -1.0, -1.0, 1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, 1.0, -1.0, -1.0, -1.0, -1.0, -1.0]
+Hand_0010833.jpg - dorsal
+Hand_0008885.jpg - dorsal
+Hand_0001321.jpg - dorsal
+Hand_0001320.jpg - dorsal
+Hand_0009378.jpg - dorsal
+Hand_0002213.jpg - dorsal
+Hand_0000404.jpg - dorsal
+Hand_0011455.jpg - palmar
+Hand_0008886.jpg - dorsal
+Hand_0000203.jpg - dorsal
+Hand_0002212.jpg - dorsal
+Hand_0009810.jpg - dorsal
+Hand_0007168.jpg - dorsal
+Hand_0011726.jpg - dorsal
+Hand_0005579.jpg - palmar
+Hand_0009791.jpg - palmar
+Hand_0000776.jpg - dorsal
+Hand_0010834.jpg - dorsal
+Hand_0005578.jpg - palmar
+Hand_0003137.jpg - palmar
+Hand_0000204.jpg - dorsal
+Hand_0000774.jpg - palmar
+Hand_0000205.jpg - dorsal
+Hand_0000403.jpg - dorsal
+Hand_0002214.jpg - dorsal
+Hand_0001829.jpg - dorsal
+Hand_0004945.jpg - dorsal
+Hand_0003555.jpg - dorsal
+Hand_0000075.jpg - dorsal
+Hand_0001828.jpg - palmar
+Hand_0009657.jpg - dorsal
+Hand_0000101.jpg - dorsal
+Hand_0010474.jpg - dorsal
+Hand_0000659.jpg - palmar
+Hand_0004946.jpg - dorsal
+Hand_0003556.jpg - dorsal
+Hand_0008628.jpg - dorsal
+Hand_0000102.jpg - dorsal
+Hand_0009654.jpg - dorsal
+Hand_0000658.jpg - palmar
+Hand_0000112.jpg - palmar
+Hand_0000648.jpg - dorsal
+Hand_0009687.jpg - dorsal
+Hand_0008016.jpg - dorsal
+Hand_0004572.jpg - palmar
+Hand_0008017.jpg - dorsal
+Hand_0009686.jpg - palmar
+Hand_0000111.jpg - palmar
+Hand_0009653.jpg - dorsal
+Hand_0006004.jpg - dorsal
+Hand_0000070.jpg - dorsal
+Hand_0006401.jpg - dorsal
+Hand_0008014.jpg - dorsal
+Hand_0006005.jpg - dorsal
+Hand_0010471.jpg - dorsal
+Hand_0006575.jpg - dorsal
+Hand_0000109.jpg - palmar
+Hand_0000915.jpg - dorsal
+Hand_0008622.jpg - dorsal
+Hand_0000650.jpg - dorsal
+Hand_0001943.jpg - dorsal
+Hand_0004026.jpg - dorsal
+Hand_0000903.jpg - palmar
+Hand_0000095.jpg - dorsal
+Hand_0000094.jpg - dorsal
+Hand_0000902.jpg - palmar
+Hand_0002720.jpg - dorsal
+Hand_0004631.jpg - dorsal
+Hand_0002719.jpg - dorsal
+Hand_0003388.jpg - dorsal
+Hand_0004632.jpg - dorsal
+Hand_0003558.jpg - dorsal
+Hand_0001944.jpg - dorsal
+Hand_0003389.jpg - dorsal
+Hand_0005984.jpg - dorsal
+Hand_0005562.jpg - dorsal
+Hand_0002184.jpg - dorsal
+Hand_0004245.jpg - palmar
+Hand_0006863.jpg - dorsal
+Hand_0005985.jpg - dorsal
+Hand_0003138.jpg - palmar
+Hand_0004680.jpg - dorsal
+Hand_0004681.jpg - dorsal
+Hand_0005986.jpg - dorsal
+Hand_0000144.jpg - dorsal
+Hand_0009376.jpg - dorsal
+Hand_0001931.jpg - dorsal
+Hand_0006864.jpg - dorsal
+Hand_0002182.jpg - dorsal
+Hand_0002183.jpg - dorsal
+Hand_0001930.jpg - dorsal
+Hand_0009377.jpg - dorsal
+Hand_0000145.jpg - dorsal
+Hand_0007166.jpg - dorsal
+Hand_0000423.jpg - palmar
+Hand_0000386.jpg - dorsal
+Hand_0005163.jpg - dorsal
+Hand_0005162.jpg - dorsal
+Hand_0000387.jpg - dorsal
+Hand_0000422.jpg - dorsal
+51.0

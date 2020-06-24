@@ -1,0 +1,4 @@
+Processing Metadata...
+Db already populated, skipping
+Extracting LBP of images in /Users/tsekar/ASU/MWDB/Project/DataSet/TestData2
+There are 200 images in the directory

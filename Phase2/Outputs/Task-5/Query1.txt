@@ -1,0 +1,4 @@
+distance score for right-hand is 909090909.721051
+Similarity score for right-hand is 1.0999999992375284e-07
+Threshold_score score for right-hand is 909090910.5214313
+The given image Hand_0000111.jpg belongs to class right-hand
